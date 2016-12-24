@@ -11,7 +11,6 @@ import javax.swing.JPanel;
 public class PanelWithBackground extends JPanel {
 
 	BufferedImage panelBackground;
-	File bkgFile;
 	
 	PanelWithBackground(String backgroundFile) {
 		try {
